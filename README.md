@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm on <a rel="me" href="https://techhub.social/@galrito">Mastodon</a>
+
 <!--
 **galrito/galrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
